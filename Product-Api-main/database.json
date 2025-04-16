@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "id": "4f52",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/61CdgErETtL._SL1500_.jpg",
+      "title": " Haier 190 L",
+      "description": "4 Star, Direct Cool Single Door Refrigerator (HED-204DS-P, Dazzle Steel)",
+      "price": "21000"
+    },
+    {
+      "id": "967c",
+      "category": "jewelery",
+      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw52f65a28/images/hi-res/51D3B12OSABA00_1.jpg?sw=640&sh=640",
+      "title": "Lovely Chic Necklace Set",
+      "price": "137748",
+      "description": "22K\nKaratage\n\nYellow\nMaterial Colour"
+    },
+    {
+      "id": "3a34",
+      "category": "men's clothing",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240508/X9xJ/663b6d8905ac7d77bb48c57c/-473Wx593H-469620870-grey-MODEL.jpg",
+      "title": "U.S. POLO ASSN.",
+      "price": "1649",
+      "description": "Men Colourblocked Regular Fit Shirt"
+    },
+    {
+      "id": "7fe4",
+      "category": "women's clothing",
+      "title": "LEVI'S",
+      "price": "1400",
+      "description": "Women Lightly Washed High-Rise 724 Slim Straight Fit Jeans",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20250131/AsT0/679ccbbc2960820c494e0e89/-473Wx593H-469720017-blue-MODEL6.jpg"
+    },
+    {
+      "id": "0240",
+      "category": "electronics",
+      "title": "JBL Partybox 110",
+      "price": "24999",
+      "description": "Wireless Bluetooth Party Speaker, 160W Monstrous Pro Sound, Dynamic Light Show, Upto 12Hrs Playtime, Built-in Powerbank, Guitar & Mic Input, PartyBox App, Splashproof (Black)",
+      "image": "https://m.media-amazon.com/images/I/71h2c+bB-fL._SL1500_.jpg"
+    },
+    {
+      "id": "2214",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20241224/EBxw/676a497ec148fa1b305b0447/-473Wx593H-442659295-brown-MODEL.jpg",
+      "category": "men's clothing",
+      "title": "GAP",
+      "price": "2099",
+      "description": "Men Slim Fit full sleeve flannel Shirt"
+    },
+    {
+      "id": "8504",
+      "category": "jewelery",
+      "image": "https://s7ap1.scene7.com/is/image/noveljewelsprod/OECYL50-BJNS065%281%29",
+      "title": "Verdant Bloom Diamond Necklace",
+      "price": "3096909.00",
+      "description": "A diamond necklace with green hues so rare, Crafted with love, for a moment beyond compare. This 18 karat yellow gold necklace is studded with diamond.."
+    },
+    {
+      "id": "3688",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20250131/KibM/679ceaa22960820c494fad43/-473Wx593H-701142770-black-MODEL.jpg",
+      "title": "NYRIKA",
+      "price": "745",
+      "description": "Women Gown Dress",
+      "category": "women's clothing"
+    },
+    {
+      "id": "a087",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/81zPuf-0ETL._SL1500_.jpg",
+      "title": " Sony 164 cm",
+      "price": "76500",
+      "description": "BRAVIA 2 4K Ultra HD Smart LED Google TV K-65S25B (Black)"
+    },
+    {
+      "id": "c6ff",
+      "category": "jewelery",
+      "image": "https://m.media-amazon.com/images/I/719UgVgfZwL._SY695_.jpg",
+      "title": "Jewellery Set For Women",
+      "price": "43900",
+      "description": "Sukkhi Sparkling Indian Temple Gold Plated Green Beads Choker Necklace Set With Studs Earring "
+    },
+    {
+      "id": "cc6e",
+      "category": "men's clothing",
+      "title": "U.S. Polo Assn.",
+      "price": "1500",
+      "description": "U.S. Polo Assn. Men's Striped Slim Fit T-Shirt",
+      "image": "https://m.media-amazon.com/images/I/71qoHya+pEL._SX569_.jpg"
+    },
+    {
+      "id": "2258",
+      "category": "women's clothing",
+      "image": "https://m.media-amazon.com/images/I/51f-Q3CUJZL._SY741_.jpg",
+      "price": "2100",
+      "title": "Women Co Ord Set",
+      "description": "GRECIILOOKS Women Co Ord Set for Women | Co Ord Set for Women Stylish | Kurta Set for Women | Kurta Set | Ethnic Co Ord Set for Women"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "86ca",
+      "description": "It's Good Product And Best Quality",
+      "star": 5,
+      "productId": "4f52"
+    },
+    {
+      "id": "dd65",
+      "description": "good fabric!!!",
+      "star": 5,
+      "productId": "3a34"
+    },
+    {
+      "id": "2791",
+      "description": "nice color",
+      "star": 5,
+      "productId": "3a34"
+    },
+    {
+      "id": "4e22",
+      "description": "good fabric!!!!",
+      "star": 5,
+      "productId": "3688"
+    },
+    {
+      "id": "3332",
+      "description": "goood color ",
+      "star": -1,
+      "productId": "2214"
+    }
+  ]
+}
